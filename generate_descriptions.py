@@ -73,3 +73,4 @@ if __name__ == "__main__":
 
     save_descriptions(descriptions, filepath="output.txt")
     print("\nDescriptions saved to output.txt")
+
